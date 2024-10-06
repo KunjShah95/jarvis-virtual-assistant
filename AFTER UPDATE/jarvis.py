@@ -1,4 +1,4 @@
-import logging
+iimport logging
 import pyttsx3
 import datetime
 import speech_recognition as sr
@@ -145,7 +145,7 @@ def jokes():
 
 
 def get_weather():
-    api_key = "ec7e9b126d5733473b55542c9c86638b"  # Replace with your actual API key
+    api_key = ""  # Replace with your actual API key
     location = "AHMEDABAD"  # Modify as needed
     url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid={api_key}&units=metric"
 
@@ -167,7 +167,7 @@ def get_weather():
 
 
 def get_news():
-    api_key = "a831ccc87e9f456cbffb1228fe00d927"  # Replace with your actual API key
+    api_key = ""  # Replace with your actual API key
     url = f"https://newsapi.org/v2/top-headlines?country=us&apiKey={api_key}"
 
     try:
