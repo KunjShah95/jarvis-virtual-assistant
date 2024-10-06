@@ -1,0 +1,26 @@
+2024-09-29 21:55:25,692:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\KUNJ\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-29 21:55:25,692:INFO:Using writeable comtypes cache directory: 'C:\Users\KUNJ\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-29 21:55:28,343:INFO:Spoken text: Welcome back sir!
+2024-09-29 21:55:30,190:INFO:Spoken text: The current time is
+2024-09-29 21:55:33,340:INFO:Spoken text: 09:55:28 PM
+2024-09-29 21:55:33,344:INFO:Current time spoken: 09:55:28 PM
+2024-09-29 21:55:35,070:INFO:Spoken text: Today's date is
+2024-09-29 21:55:38,297:INFO:Spoken text: 29 September 2024
+2024-09-29 21:55:38,303:INFO:Current date spoken: 29 September 2024
+2024-09-29 21:55:41,789:INFO:Spoken text: Jarvis at your service. How can I help you?
+2024-09-29 21:55:41,794:INFO:Vocal welcome message delivered.
+2024-09-29 21:55:41,794:INFO:Jarvis class initialized.
+2024-09-29 21:55:42,812:INFO:Listening for user input.
+2024-09-29 21:55:44,157:INFO:Spoken text: Listening...
+2024-09-29 21:55:52,750:INFO:Recognizing user input.
+2024-09-29 21:55:53,972:WARNING:Speech Recognition could not understand audio.
+2024-09-29 21:55:57,457:INFO:Spoken text: I didn't catch that. Could you please repeat?
+2024-09-29 21:55:57,606:INFO:Listening for user input.
+2024-09-29 21:55:58,968:INFO:Spoken text: Listening...
+2024-09-29 21:56:04,142:INFO:Recognizing user input.
+2024-09-29 21:56:04,498:WARNING:Speech Recognition could not understand audio.
+2024-09-29 21:56:07,976:INFO:Spoken text: I didn't catch that. Could you please repeat?
+2024-09-29 21:56:08,110:INFO:Listening for user input.
+2024-09-29 21:56:09,457:INFO:Spoken text: Listening...
+2024-09-29 21:56:17,178:INFO:Recognizing user input.
+2024-09-29 21:56:17,747:WARNING:Speech Recognition could not understand audio.
